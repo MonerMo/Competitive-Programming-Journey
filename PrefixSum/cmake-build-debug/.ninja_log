@@ -1,3 +1,25 @@
 # ninja log v5
-0	1284	7296253404122431	CMakeFiles/PrefixSum.dir/StaticRangeSum-LibraryChecker.cpp.obj	ddcced59dab7c1a
-1286	1354	7296253404786086	PrefixSum.exe	fe7021350bed5791
+8	3369	7301427514026888	CMakeFiles/PrefixSum.dir/StaticRangeSum-LibraryChecker.cpp.obj	ddcced59dab7c1a
+2594	2822	7301433719024323	PrefixSum.exe	72098296ca9b5828
+7	2448	7301431141021801	CMakeFiles/PrefixSum.dir/Subsequences_Summing_to_Sevens.cpp.obj	19dffc14e05c76c4
+0	2591	7301433716785315	CMakeFiles/PrefixSum.dir/SubsequencesSummingtoSevens_USACO.cpp.obj	46fdb91447aae368
+1	1362	7301454518256434	CMakeFiles/PrefixSum.dir/BreedCounting_USACO.cpp.obj	cf48cd03fb5ac15b
+1363	1437	7301454518993453	PrefixSum.exe	4875afe4e346f955
+2	1350	7301455007162134	CMakeFiles/PrefixSum.dir/BreedCounting_USACO.cpp.obj	cf48cd03fb5ac15b
+1351	1419	7301455007807699	PrefixSum.exe	4875afe4e346f955
+2	1446	7301455640657532	CMakeFiles/PrefixSum.dir/BreedCounting_USACO.cpp.obj	cf48cd03fb5ac15b
+1446	1515	7301455641320851	PrefixSum.exe	4875afe4e346f955
+2	1303	7301455789160598	CMakeFiles/PrefixSum.dir/BreedCounting_USACO.cpp.obj	cf48cd03fb5ac15b
+1303	1369	7301455789798634	PrefixSum.exe	4875afe4e346f955
+2	1253	7301455870441723	CMakeFiles/PrefixSum.dir/BreedCounting_USACO.cpp.obj	cf48cd03fb5ac15b
+1253	1322	7301455871090151	PrefixSum.exe	4875afe4e346f955
+3	1354	7301456805281393	CMakeFiles/PrefixSum.dir/BreedCounting_USACO.cpp.obj	cf48cd03fb5ac15b
+1355	1420	7301456805909737	PrefixSum.exe	4875afe4e346f955
+3	1284	7301457569928955	CMakeFiles/PrefixSum.dir/BreedCounting_USACO.cpp.obj	cf48cd03fb5ac15b
+1284	1404	7301457570592897	PrefixSum.exe	4875afe4e346f955
+3	1286	7301458611058896	CMakeFiles/PrefixSum.dir/BreedCounting_USACO.cpp.obj	cf48cd03fb5ac15b
+1287	1354	7301458611702308	PrefixSum.exe	4875afe4e346f955
+2	1326	7301460418232054	CMakeFiles/PrefixSum.dir/BreedCounting_USACO.cpp.obj	cf48cd03fb5ac15b
+1326	1395	7301460418885948	PrefixSum.exe	4875afe4e346f955
+3	1286	7301460589357109	CMakeFiles/PrefixSum.dir/BreedCounting_USACO.cpp.obj	cf48cd03fb5ac15b
+1286	1351	7301460590000538	PrefixSum.exe	4875afe4e346f955
