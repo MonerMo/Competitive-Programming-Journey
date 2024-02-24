@@ -3,7 +3,8 @@ project(CF)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(CF 1343-C.cpp)
+add_executable(CF 296-C.cpp)
+#add_executable(CF 1343-C.cpp )
 #add_executable(CF "Find maximum length sequence of continuous ones.cpp" )
 #add_executable(CF 1354-B.cpp )
 #add_executable(CF 676-C.cpp )
