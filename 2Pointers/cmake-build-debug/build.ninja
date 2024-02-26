@@ -49,8 +49,8 @@ cmake_ninja_workdir = D$:/Clion$ Projects/Competitive$ Programming/2Pointers/cma
 
 build cmake_object_order_depends_target_CF: phony || CMakeFiles/CF.dir
 
-build CMakeFiles/CF.dir/296-C.cpp.obj: CXX_COMPILER__CF_Debug D$:/Clion$ Projects/Competitive$ Programming/2Pointers/296-C.cpp || cmake_object_order_depends_target_CF
-  DEP_FILE = CMakeFiles\CF.dir\296-C.cpp.obj.d
+build CMakeFiles/CF.dir/1006-C.cpp.obj: CXX_COMPILER__CF_Debug D$:/Clion$ Projects/Competitive$ Programming/2Pointers/1006-C.cpp || cmake_object_order_depends_target_CF
+  DEP_FILE = CMakeFiles\CF.dir\1006-C.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\CF.dir
   OBJECT_FILE_DIR = CMakeFiles\CF.dir
@@ -63,7 +63,7 @@ build CMakeFiles/CF.dir/296-C.cpp.obj: CXX_COMPILER__CF_Debug D$:/Clion$ Project
 #############################################
 # Link the executable CF.exe
 
-build CF.exe: CXX_EXECUTABLE_LINKER__CF_Debug CMakeFiles/CF.dir/296-C.cpp.obj
+build CF.exe: CXX_EXECUTABLE_LINKER__CF_Debug CMakeFiles/CF.dir/1006-C.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\CF.dir
