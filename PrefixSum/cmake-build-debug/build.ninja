@@ -49,8 +49,8 @@ cmake_ninja_workdir = D$:/Clion$ Projects/Competitive$ Programming/PrefixSum/cma
 
 build cmake_object_order_depends_target_PrefixSum: phony || CMakeFiles/PrefixSum.dir
 
-build CMakeFiles/PrefixSum.dir/SubarraySums2-CSES.cpp.obj: CXX_COMPILER__PrefixSum_Debug D$:/Clion$ Projects/Competitive$ Programming/PrefixSum/SubarraySums2-CSES.cpp || cmake_object_order_depends_target_PrefixSum
-  DEP_FILE = CMakeFiles\PrefixSum.dir\SubarraySums2-CSES.cpp.obj.d
+build CMakeFiles/PrefixSum.dir/MaximumSubarraySum-CSES.cpp.obj: CXX_COMPILER__PrefixSum_Debug D$:/Clion$ Projects/Competitive$ Programming/PrefixSum/MaximumSubarraySum-CSES.cpp || cmake_object_order_depends_target_PrefixSum
+  DEP_FILE = CMakeFiles\PrefixSum.dir\MaximumSubarraySum-CSES.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\PrefixSum.dir
   OBJECT_FILE_DIR = CMakeFiles\PrefixSum.dir
@@ -63,7 +63,7 @@ build CMakeFiles/PrefixSum.dir/SubarraySums2-CSES.cpp.obj: CXX_COMPILER__PrefixS
 #############################################
 # Link the executable PrefixSum.exe
 
-build PrefixSum.exe: CXX_EXECUTABLE_LINKER__PrefixSum_Debug CMakeFiles/PrefixSum.dir/SubarraySums2-CSES.cpp.obj
+build PrefixSum.exe: CXX_EXECUTABLE_LINKER__PrefixSum_Debug CMakeFiles/PrefixSum.dir/MaximumSubarraySum-CSES.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\PrefixSum.dir
