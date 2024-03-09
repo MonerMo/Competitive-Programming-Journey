@@ -3,7 +3,8 @@ project(PrefixSum)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(PrefixSum 433-B.cpp)
+add_executable(PrefixSum AngryCyborg-CodeChef.cpp)
+#add_executable(PrefixSum 433-B.cpp )
 #add_executable(PrefixSum ForestQueries-CSES.cpp )
 #add_executable(PrefixSum MaximumSubarraySum-CSES.cpp)
 #add_executable(PrefixSum 1398-C.cpp)
