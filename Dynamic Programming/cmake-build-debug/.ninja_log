@@ -1,0 +1,4 @@
+# ninja log v5
+1	278	7332567302497345	build.ninja	b9f94c41ec2dd7c1
+1	2961	7332567333676005	CMakeFiles/Dynamic_Programming.dir/Factorial-HackerEarth.cpp.obj	c542dd835369169d
+2964	3198	7332567335978941	Dynamic_Programming.exe	2a938f9ac0ddb95
