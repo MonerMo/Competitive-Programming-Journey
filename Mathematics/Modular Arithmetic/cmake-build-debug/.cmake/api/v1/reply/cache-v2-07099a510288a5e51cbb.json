@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "d:/Clion Projects/Competitive Programming/Dynamic Programming/cmake-build-debug"
+			"value" : "d:/Clion Projects/Competitive Programming/Mathematics/Modular Arithmetic/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -575,7 +575,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "D:/Clion Projects/Competitive Programming/Dynamic Programming/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "D:/Clion Projects/Competitive Programming/Mathematics/Modular Arithmetic/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -647,7 +647,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "D:/Clion Projects/Competitive Programming/Dynamic Programming"
+			"value" : "D:/Clion Projects/Competitive Programming/Mathematics/Modular Arithmetic"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -659,7 +659,7 @@
 				}
 			],
 			"type" : "PATH",
-			"value" : "C:/Program Files (x86)/Dynamic_Programming"
+			"value" : "C:/Program Files (x86)/Modular_Arithmetic"
 		},
 		{
 			"name" : "CMAKE_LINKER",
@@ -687,7 +687,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/ninja/win/x64/ninja.exe"
+			"value" : "C:/Program Files/JetBrains/CLion 2022.3.2/bin/ninja/win/x64/ninja.exe"
 		},
 		{
 			"name" : "CMAKE_MODULE_LINKER_FLAGS",
@@ -875,7 +875,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "Dynamic_Programming"
+			"value" : "Modular_Arithmetic"
 		},
 		{
 			"name" : "CMAKE_RANLIB",
@@ -1254,7 +1254,7 @@
 			"value" : "FALSE"
 		},
 		{
-			"name" : "Dynamic_Programming_BINARY_DIR",
+			"name" : "Modular_Arithmetic_BINARY_DIR",
 			"properties" : 
 			[
 				{
@@ -1263,10 +1263,10 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "D:/Clion Projects/Competitive Programming/Dynamic Programming/cmake-build-debug"
+			"value" : "D:/Clion Projects/Competitive Programming/Mathematics/Modular Arithmetic/cmake-build-debug"
 		},
 		{
-			"name" : "Dynamic_Programming_IS_TOP_LEVEL",
+			"name" : "Modular_Arithmetic_IS_TOP_LEVEL",
 			"properties" : 
 			[
 				{
@@ -1278,7 +1278,7 @@
 			"value" : "ON"
 		},
 		{
-			"name" : "Dynamic_Programming_SOURCE_DIR",
+			"name" : "Modular_Arithmetic_SOURCE_DIR",
 			"properties" : 
 			[
 				{
@@ -1287,7 +1287,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "D:/Clion Projects/Competitive Programming/Dynamic Programming"
+			"value" : "D:/Clion Projects/Competitive Programming/Mathematics/Modular Arithmetic"
 		},
 		{
 			"name" : "_CMAKE_LINKER_PUSHPOP_STATE_SUPPORTED",
