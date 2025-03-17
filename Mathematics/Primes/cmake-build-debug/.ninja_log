@@ -1,0 +1,18 @@
+# ninja log v6
+70	476	7639494742223581	build.ninja	bd1fdad72cee3f9c
+19	504	7634157915910175	CMakeFiles/Primes.dir/C.cpp.obj	90079f39c4144038
+2101	2183	7635380183803208	Primes.exe	dd1412ec5efadf89
+23	2114	7554759094871650	CMakeFiles/Primes.dir/Primality.cpp.obj	aed101755dcbf9f0
+23	2049	7554765800353053	CMakeFiles/Primes.dir/Prime_Factorization_1.cpp.obj	49a39f394c2dd0bc
+19	2471	7557284909290133	CMakeFiles/Primes.dir/Sieve.cpp.obj	6f70edf7854375bb
+22	502	7635197412027280	CMakeFiles/Primes.dir/main.cpp.obj	6d197251a2db08d5
+18	2170	7632539933372668	CMakeFiles/Primes.dir/CF2-A-347.cpp.obj	f153d8bfb44adfb
+20	2196	7629130607115631	CMakeFiles/Primes.dir/BetaRound17-A.cpp.obj	9e7c828ba2fed2d1
+20	2240	7629624225460724	CMakeFiles/Primes.dir/BetaRound26-A.cpp.obj	10a01a0c9ba3d8d1
+18	2190	7630833682328928	CMakeFiles/Primes.dir/Round400-B.cpp.obj	46d8a4f38bdb8e54
+24	2239	7631733581236908	CMakeFiles/Primes.dir/CF1-B-109.cpp.obj	2c8e0dfe6f72cb4e
+24	2380	7633465549122063	CMakeFiles/Primes.dir/CF2-D-324.cpp.obj	8d22b6170a49b1d0
+20	2058	7634096219849900	CMakeFiles/Primes.dir/A.cpp.obj	f73b075224a2305f
+14	2074	7634157915876968	CMakeFiles/Primes.dir/B.cpp.obj	8855f42093ef471f
+22	2137	7635175281846031	CMakeFiles/Primes.dir/CF-103029-B.cpp.obj	5d22a16f50b60beb
+19	2101	7635380162993230	CMakeFiles/Primes.dir/CF-OnceUponATime-J.cpp.obj	1c6b0d67cb229d9c
