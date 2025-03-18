@@ -1,6 +1,4 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/Dynamic_Programming.dir/CF2-116-C.cpp.obj"
-  "CMakeFiles/Dynamic_Programming.dir/CF2-116-C.cpp.obj.d"
   "CMakeFiles/Dynamic_Programming.dir/main.cpp.obj"
   "CMakeFiles/Dynamic_Programming.dir/main.cpp.obj.d"
   "Dynamic_Programming.exe"

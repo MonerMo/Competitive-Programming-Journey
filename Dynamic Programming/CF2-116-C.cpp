@@ -4,18 +4,26 @@
 #include <bits/stdc++.h>
 using namespace std ;
 
-//we should start with the first index and keep going 
 
 
-
-int solve(string input , int start) {
-
-}
 
 
 int main() {
 	string s ;
 	cin >> s ;
 
-	cout << solve(s, 0);
+	int lower = 0 ;
+	int change = 0 ;
+	for(int i = 0 ; i < s.size() ; i++) {
+		if(s[i] >= 'a') {
+			lower++;
+		}else {
+			if(lower > 0) {
+				//this means that we facing upper after lower so we need to change it to lower
+				lower-- ;
+				change++;
+			}
+		}
+	}
+	cout << change << endl;
 }

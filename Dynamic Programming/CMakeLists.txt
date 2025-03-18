@@ -5,9 +5,9 @@ set(CMAKE_CXX_STANDARD 17)
 
 
 add_executable(Dynamic_Programming
+        main.cpp
         #main.cpp
-        #main.cpp
-        CF2-116-C.cpp
+        #CF2-116-C.cpp
         #AC-A_Frog_1.cpp
         #AC-A_Frog_2.cpp
         #AC-C-Vacation.cpp

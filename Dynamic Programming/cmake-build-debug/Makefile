@@ -128,30 +128,6 @@ Dynamic_Programming/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Dynamic_Programming.dir\build.make CMakeFiles/Dynamic_Programming.dir/build
 .PHONY : Dynamic_Programming/fast
 
-CF2-116-C.obj: CF2-116-C.cpp.obj
-.PHONY : CF2-116-C.obj
-
-# target to build an object file
-CF2-116-C.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Dynamic_Programming.dir\build.make CMakeFiles/Dynamic_Programming.dir/CF2-116-C.cpp.obj
-.PHONY : CF2-116-C.cpp.obj
-
-CF2-116-C.i: CF2-116-C.cpp.i
-.PHONY : CF2-116-C.i
-
-# target to preprocess a source file
-CF2-116-C.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Dynamic_Programming.dir\build.make CMakeFiles/Dynamic_Programming.dir/CF2-116-C.cpp.i
-.PHONY : CF2-116-C.cpp.i
-
-CF2-116-C.s: CF2-116-C.cpp.s
-.PHONY : CF2-116-C.s
-
-# target to generate assembly for a file
-CF2-116-C.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Dynamic_Programming.dir\build.make CMakeFiles/Dynamic_Programming.dir/CF2-116-C.cpp.s
-.PHONY : CF2-116-C.cpp.s
-
 main.obj: main.cpp.obj
 .PHONY : main.obj
 
@@ -185,9 +161,6 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... Dynamic_Programming
-	@echo ... CF2-116-C.obj
-	@echo ... CF2-116-C.i
-	@echo ... CF2-116-C.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s

@@ -1,37 +1,43 @@
 #include <bits/stdc++.h>
 using namespace std ;
 
+int n ;
+vector<int>input ;
+
+const int MAX = 1e5+1 ;
+int dp[MAX] ;
+
+
+int solve(int index) {
+	if(index == n-1 )
+		return 0 ;
+
+	if(dp[index] != -1)
+		return dp[index] ;
+
+	int choice1 = 2e9 ;
+	int choice2 = 2e9 ;
+	if(index + 1 < n)
+		choice1 = abs(input[index] - input[index+1]) + solve(index + 1) ;
+
+	if(index + 2 < n)
+		choice2 = abs(input[index] - input[index+2]) + solve(index + 2);
+
+	return dp[index] = min(choice1 , choice2);
+}
+
+
 int main() {
+	cin >> n ;
+	for(int i = 0 ; i < n ; i++) {
+		int holder ;
+		cin >> holder ;
+		input.push_back(holder);
+	}
 
-        //we can do it by two pointers and set
-        string s = "anviaj" ;
+	for(int i = 0 ; i < 1e5+1 ; i++) {
+		dp[i] = -1 ;
+	}
 
-        set<char> freq ;
-        int st = 0 ; int e = 0 ;
-        int ans = -1 ;
-        for( ; e < s.size() ;){
-
-            if(freq.find(s[e]) == freq.end()){
-                //this means the element is not yet exist
-                freq.insert(s[e]);
-                e++ ;
-                int holder = freq.size();
-                if(holder > ans) ans = holder ;
-            }else{
-                //this means we hit a character that breaks the current substring
-
-                //if the current end are similar to the past char so we should start from the distinct
-                if(s[e] == s[e-1]) {
-                    freq.clear() ;
-                    st = e ;
-                }else {
-                    freq.erase(s[st]);
-                    st++ ;
-                }
-            }
-        }
-        if(ans == -1)
-            cout << 0 ;
-        else
-            cout <<  ans ;
+	cout << solve(0);
 }
